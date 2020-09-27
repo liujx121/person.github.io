@@ -83,7 +83,7 @@
 			<td colspan="2">6k-8k</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td rowspan="4">竞赛及项目经历</td>	
+			<td rowspan="3">竞赛及项目经历</td>	
 			<td colspan="6">2019年制作地铁线路查询系统</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">	
@@ -93,7 +93,7 @@
 			<td colspan="6">2020年制作基于知识图谱的科技政策管理系统</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td rowspan="4">社会实践工作经历</td>	
+			<td rowspan="2">社会实践工作经历</td>	
 			<td colspan="6">2019年进行公益垃圾分类宣传活动</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">	
