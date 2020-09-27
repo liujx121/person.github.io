@@ -51,7 +51,7 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
-			<td colspan="6" rowspan="2">给我一个机会，还你一个惊喜</td>
+			<td colspan="6" rowspan="2">扎实的JAVA编程基础，熟悉常用的JAVA开源框架和web开发技术，熟悉MySQL数据库管 理及开发； 良好的学习能力和适应能力，较强的独立分析解决问题能力和工作执行力及 抗压能力； 有良好的团队合作能力，能够很快融入到团队工作中，注重团队的学习和进 步； 善于与人相处，为人诚恳，吃苦耐劳，乐观积极，具有有效的交际能力并保持良好 的人际关系；</td>
 		<tr height="50" style="text-align: center;">			
 		</tr>
 		<tr height="50" style="text-align: center;">
